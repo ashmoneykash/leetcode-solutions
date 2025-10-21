@@ -7,5 +7,5 @@ It serves as both a **learning tracker** and a **personal reference library** fo
 
 ## 📂 Repository Structure
 
-Each problem has its own dedicated folder for clean organization:
+Each problem has its own dedicated folder for clean organization.
 
